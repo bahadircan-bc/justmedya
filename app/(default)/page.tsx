@@ -1,6 +1,7 @@
 export const metadata = {
   title: 'justmedya - Home',
-  description: 'justmedya - Home',
+  description: 'Boost your popularity, increase your sales, and grow your business with justmedya.',
+  icon: '/icon.ico',
 }
 
 import Hero from '@/components/hero'
